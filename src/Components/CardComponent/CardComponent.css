@@ -1,0 +1,9 @@
+.chip {
+  background-color: var(--black-color);
+  border-radius: 20px;
+}
+.Card-title {
+  color: white;
+  font-family: "poppins";
+  letter-spacing: 1px;
+}
